@@ -1,0 +1,4 @@
+baseURL = "http://tomvictory.github.io/"
+languageCode = "zh-Hans"
+title = "KFC的博客"
+theme = "ananke"
